@@ -1,0 +1,2 @@
+git clone --> gir clone from remote repo to local repo 
+git pull --> Git fetch from remote repo && git merage remote with local branch 
